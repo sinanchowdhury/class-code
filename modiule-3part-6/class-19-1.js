@@ -1,7 +1,7 @@
 
 // module - 3
 // pasrt-6, class-19-1
-// subject- ki bhbe jor, bejor er man bahir korbo , funcation er madome 2 ta var ke akk shte kaj korbao;
+// subject- ki bhbe jor, bejor er man bahir korbo : funcation er madome 2 ta var ke akk shte kaj korbao;
 
 
 
